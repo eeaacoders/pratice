@@ -1,0 +1,2 @@
+# pratice
+practice of git
